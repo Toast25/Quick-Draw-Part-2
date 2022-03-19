@@ -1,0 +1,18 @@
+body{
+    background-color: cornflowerblue;
+}
+p{
+    color:white;
+    font-size:20px;
+}
+h1{
+    color:white;
+}
+#p1{
+float: left;
+margin-left:50px;
+}
+#p2{
+    float: right;
+    margin-right:50px;
+}
